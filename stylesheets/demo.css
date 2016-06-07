@@ -1,11 +1,11 @@
-.content-main:nth-child(2n){
+.content-main:nth-child(odd){
     margin-bottom:20px;
-    background: linear-gradient(70deg,#354da4, #354da4 49%,#3954b2 49%,#3954b2 51%, #4a64bd 51%, #4a64bd 100%);
+    /*background: linear-gradient(70deg,#354da4, #354da4 49%,#3954b2 49%,#3954b2 51%, #4a64bd 51%, #4a64bd 100%);*/
     height:200px;
 }
-.content-main:nth-child(2n+1){
+.content-main:nth-child(even){
      margin-bottom:20px;
-     background: linear-gradient(70deg,#4a64bd, #4a64bd 49%,#3954b2 49%,#3954b2 51%, #354da4 51%, #354da4 100%);
+     /*background: linear-gradient(70deg,#4a64bd, #4a64bd 49%,#3954b2 49%,#3954b2 51%, #354da4 51%, #354da4 100%);*/
      height:200px;
  }
 header a.button{
