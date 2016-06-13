@@ -11,6 +11,11 @@
 header a.button{
     top:-20px;
 }
+head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 footer {
   padding-top: 40px;
   padding-bottom: 0px;
