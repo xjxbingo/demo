@@ -1,12 +1,19 @@
 body.hidden {
     overflow: hidden;
 }
+body{
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    font-size: 23px;
+}
 header a.button{
     top:-20px;
 }
-head{
+head,footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+footer{
+    background-color:#ddd;
 }
 
