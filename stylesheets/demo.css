@@ -1,15 +1,18 @@
 body{
-    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    /*font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;*/
+    font-family:liSu;
     font-size: 23px;
     overflow: hidden;
 }
 header a.button{
     top:-20px;
+    font-family:YouYuan;
 }
 head,footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    font-family:YouYuan;
 }
 footer{
     justify-content: center;
