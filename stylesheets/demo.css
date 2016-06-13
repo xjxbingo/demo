@@ -1,14 +1,3 @@
-body {
-    padding: 220px 12px 82px;
-    background-color: ##2e7bcf;
-    background-image: url(../images/header-bg.jpg), url(../images/header-bg.jpg);
-    background-repeat: no-repeat;
-    background-position: top, bottom;
-    background-size: 100%, 324px;
-    color:#fff;
-    font-size: 14px;
-    -webkit-user-select: none;
-}
 body.hidden {
     overflow: hidden;
 }
