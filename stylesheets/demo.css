@@ -14,6 +14,7 @@ head,footer{
     align-items: center;
 }
 footer{
+    justify-content: center;
     background-color:#ddd;
 }
 
