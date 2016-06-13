@@ -16,6 +16,7 @@ footer{
     background-color:#ddd;
 }
 #content-wrapper{
-    overflow:auto;
+    overflow: auto;
+    max-height: 704px;
 }
 
