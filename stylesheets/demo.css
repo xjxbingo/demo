@@ -1,3 +1,18 @@
+body {
+    padding: 220px 12px 82px;
+    background-color: ##2e7bcf;
+    background-image: url(../images/header-bg.jpg), url(../images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: top, bottom;
+    background-size: 100%, 324px;
+    color:#fff;
+    font-size: 14px;
+    -webkit-user-select: none;
+}
+body.hidden {
+    overflow: hidden;
+}
+
 .content-main:nth-child(odd){
     margin-bottom:20px;
     /*background: linear-gradient(70deg,#354da4, #354da4 49%,#3954b2 49%,#3954b2 51%, #4a64bd 51%, #4a64bd 100%);*/
@@ -16,10 +31,4 @@ head{
     justify-content: space-between;
     align-items: center;
 }
-footer {
-  padding-top: 40px;
-  padding-bottom: 0px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-top: solid 1px #275da1;
-}
+
