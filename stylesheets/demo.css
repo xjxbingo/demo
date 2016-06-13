@@ -1,9 +1,7 @@
 body{
-    overflow: hidden;
-}
-body{
     font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
     font-size: 23px;
+    overflow: hidden;
 }
 header a.button{
     top:-20px;
