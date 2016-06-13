@@ -8,7 +8,7 @@ header a.button{
     top:-20px;
     font-family:YouYuan;
 }
-head,footer{
+header,footer{
     display: flex;
     justify-content: space-between;
     align-items: center;
