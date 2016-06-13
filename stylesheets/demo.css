@@ -17,4 +17,7 @@ footer{
     justify-content: center;
     background-color:#ddd;
 }
+#content-wrapper{
+    overflow:auto;
+}
 
