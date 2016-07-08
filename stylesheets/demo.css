@@ -3,6 +3,7 @@ body{
     font-family:liSu;
     font-size: 23px;
     overflow: hidden;
+    height:100%;
 }
 header a.button{
     top:-20px;
@@ -20,7 +21,7 @@ footer{
 }
 #content-wrapper{
     overflow: auto;
-    max-height: 704px;
+   height: 100%;
 }
 .inner{
     width: 100%;
