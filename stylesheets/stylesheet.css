@@ -484,7 +484,6 @@ header h2 {
 }
 
 #content-wrapper {
-  padding-top: 30px;
   border-top: solid 1px #fff;
 }
 
@@ -744,7 +743,6 @@ dl dd {
 footer {
   padding-top: 20px;
   padding-bottom: 30px;
-  margin-top: 40px;
   font-size: 13px;
   color: #aaa;
   background: transparent url('../images/hr.png') 0 0 no-repeat;
