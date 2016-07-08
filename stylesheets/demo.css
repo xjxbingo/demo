@@ -5,6 +5,15 @@ body{
     overflow: hidden;
     height:100%;
 }
+html{
+    height: 100%;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+header, footer{flex: none;}
+#content-wrapper{flex:auto;}
 header a.button{
     top:-20px;
     font-family:YouYuan;
