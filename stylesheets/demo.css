@@ -22,4 +22,11 @@ footer{
     overflow: auto;
     max-height: 704px;
 }
-
+.inner{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-content: space-around;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
